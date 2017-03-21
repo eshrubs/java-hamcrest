@@ -41,6 +41,11 @@
       <name>Petter Måhlén</name>
       <email>petter@spotify.com</email>
     </developer>
+    <developer>
+      <id>eshrubs</id>
+      <name>Evan Shrubsole</name>
+      <email>eshr@spotify.com</email>
+    </developer>
   </developers>
 
   <scm>
